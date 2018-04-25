@@ -1,7 +1,7 @@
 public class MergeSort {
     //归并排序
     public static void main(String[] args){
-
+            System.out.println("hello git");
     }
     public static void merge(int[] arr,int low,int mid,int high){
         int[] temp=new int[high-low+1];
